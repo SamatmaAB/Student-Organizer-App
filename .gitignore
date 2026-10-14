@@ -1,0 +1,15 @@
+# Android/Gradle generated files
+.gradle/
+build/
+app/build/
+.kotlin/
+.tmp/
+
+# Local machine configuration
+local.properties
+
+# Android Studio project metadata and caches
+.idea/
+
+# Generated documentation previews
+qa_viva_render/
